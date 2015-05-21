@@ -1,0 +1,14 @@
+﻿Build started 5/21/2015 2:19:16 PM.
+     1>Project "C:\Users\PC\Documents\Visual Studio 2012\Projects\quizGrader\quizGrader\quizGrader.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt quizGrader.cpp
+         quizGrader.cpp
+     1>c:\users\pc\documents\visual studio 2012\projects\quizgrader\quizgrader\quizgrader.cpp(187): warning C4018: '>' : signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\PC\Documents\Visual Studio 2012\Projects\quizGrader\Debug\quizGrader.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\PC\Documents\Visual Studio 2012\Projects\quizGrader\Debug\quizGrader.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\PC\Documents\Visual Studio 2012\Projects\quizGrader\Debug\quizGrader.lib" /MACHINE:X86 Debug\quizGrader.obj
+         quizGrader.vcxproj -> C:\Users\PC\Documents\Visual Studio 2012\Projects\quizGrader\Debug\quizGrader.exe
+     1>Done Building Project "C:\Users\PC\Documents\Visual Studio 2012\Projects\quizGrader\quizGrader\quizGrader.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.80
